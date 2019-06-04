@@ -1,0 +1,24 @@
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer2.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwf0ctm' to '../images/popular_image/most-populer2.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer3.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzkNqS1' to '../images/popular_image/most-populer3.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7xFiuP' to '../images/popular_image/most-populer.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[10-May-2019 06:27:09 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 35
+[10-May-2019 06:27:09 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 46
+[10-May-2019 06:27:16 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 35
+[10-May-2019 06:27:16 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 46
+[10-May-2019 06:38:12 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 35
+[10-May-2019 06:38:12 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 46
+[10-May-2019 06:38:15 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 35
+[10-May-2019 06:38:15 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 46
+[10-May-2019 06:38:18 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 35
+[10-May-2019 06:38:18 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 46
+[10-May-2019 06:38:20 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 35
+[10-May-2019 06:38:20 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 46
+[10-May-2019 13:16:38 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 35
+[10-May-2019 13:16:38 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/cvs/admin/update_url.php on line 46
+[11-May-2019 10:13:23 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/6.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/cvs/admin/update_products.php on line 38
+[11-May-2019 10:13:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpETysj1' to '../images/popular_image/6.png' in /home/hostingadmin/usasurveyz.com/cvs/admin/update_products.php on line 38
+[11-May-2019 10:19:17 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/2.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/cvs/admin/update_products.php on line 38
+[11-May-2019 10:19:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdvZqJe' to '../images/popular_image/2.png' in /home/hostingadmin/usasurveyz.com/cvs/admin/update_products.php on line 38
